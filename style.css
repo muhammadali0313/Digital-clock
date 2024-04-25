@@ -1,0 +1,15 @@
+body{
+    background-color: #000000;
+}
+.clock{
+    font-size: 88px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fefefe;
+    margin: 0;
+}
+#hours, #minutes, #seconds{
+    margin: 0 5px;
+}
